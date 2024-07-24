@@ -1,0 +1,1 @@
+Logging to ckpts/mimic_cxr_ckpts/mimic_cxr_medclip_2000000/logger/
